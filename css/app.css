@@ -1,0 +1,38 @@
+body {
+    background-color: #f9f9f9;
+    color: #666666;
+}
+
+.article {
+    background-color: #ffffff;
+    border: solid 1px #eaeaea;
+    padding: 50px;
+}
+
+.article .article-header,
+.article .article-header .article-title,
+.article .article-image,
+.article .article-content {
+    margin-bottom: 25px;
+}
+
+.article .article-content {
+    padding-bottom: 25px;
+}
+
+.article .article-meta .icon {
+    margin-right: 7px;
+}
+
+.article .article-meta .level .level-item {
+    margin-right: 25px;
+}
+
+.article .article-footer ul {
+    display: inherit;
+}
+
+.article .article-footer ul li {
+    margin-left: 15px;
+}
+
